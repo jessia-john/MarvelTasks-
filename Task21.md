@@ -5,16 +5,55 @@ Machine Learning is the process of training a computer with large amounts of dat
 ---
 I watched the given refernce video and below is my learnings: 
 
-[A Gentle Introduction to Machine Learning](https://www.youtube.com/watch?feature=shared&v=Gv9_4yMHFhI)
+[A Gentle Introduction to Machine Learning - StatQuest](https://www.youtube.com/watch?feature=shared&v=Gv9_4yMHFhI)
 StatQuest mentions that Machine Learning is all about presictions and classificatios.
 
 The video uses the question "Will you love StatQuest?" tree to shown how choices lead to classification. Thus, Decision Trees is a simple method to classify data. 
 
-The data we that we give intially which build sis known as training data.
-To test our model we provide it with some other data the model has'nt seen. This data is known as Testing data.
+The data we that we give intially which builds is known as **training data**.
+To test our model we provide it with some other data the model has'nt seen. This data is known as **testing data**.
+
+
 
 We see the green squiggle which performed well with the training data but when we intoduced the testing data set we see how the sum of distance between real and predicted values was larger for it than for the black line.
 
 Thus a fancy or complex method doesnt always assure an accurate model. The accuracy in making the presictions is what matters.
+---
+[How is data prepared for machine learning? - AltexSoft](https://www.youtube.com/watch?v=P8ERBy91Y90)
+The second video was about **data preparation**, what it is and how is it done.
+## Data preparation 
+---
+The video showed an example of how collection of wrong data led to the model making wrong predictions, with the example of amazon's hiring automation system.
+The data given to the model(training data) consistied of past 10 years resumes and these were male dominated. Thus it penalised resumes mentioning "female" thus leading to unfair elimination. This led to Amazon shutting down this ML recruiting tool.
+> Garbage in Garbage out
+
+Thus quality of the tarining data is extremely important for a reliable, fair and accurate model.
+
+**Steps for Data preparation**
+1. Defining the problem we need to solve
+2. Collecting as much data as we can
+    - No one-size-fits-all for dataset size: collect as much relevant data as possible.
+      - Examples - Gmail smart reply system- trained with about 238 milion messages.
+    - Sometimes lesser quantity of data can also give us the an accurate model 
+      - Example: A professor at Tamkang University used ~630 samples to predict concrete compressive strength.
+    - It should depend on the complexity anf the algorithm you choose.
+
+3. Quality & adequacy of data
+- Accuracy depends on correctness and domain relevance of data.
+    - Domain-mismatch example: using Canadian Thanksgiving sales to predict U.S. Thanksgiving turkey demand would be inadequate.
+
+4. Labeling & features (supervised learning)
+- This provide “correct answers” so the model can learn (manual labeling or use existing labels).
+
+5. Data reduction & cleansing
+     - Earlier it was mentioned more the data the better but sometimes their will be irrelevant, redundant features that need not be present and it is best to remove such data.
+     - Cleaning: Cleaning means refining our data and filling missing values with known/constant or blank values.
+
+6. Data wrangling & normalization
+    Standardizing file formats and scaling the features using numbers to a commonn range to prevent domination by the features that contain larger value.
+
+Thus these videos gave an understanding into ML and its important step- Data Preparation.
+
+
 
 
