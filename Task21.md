@@ -13,9 +13,10 @@ The video uses the question "Will you love StatQuest?" tree to shown how choices
 The data we that we give intially which builds is known as **training data**.
 To test our model we provide it with some other data the model has'nt seen. This data is known as **testing data**.
 
+[sqiuiggle]()
 
 
-We see the green squiggle which performed well with the training data but when we intoduced the testing data set we see how the sum of distance between real and predicted values was larger for it than for the black line.
+In the video, We see the green squiggle which performed well with the training data but when we intoduced the testing data set we see how the sum of distance between real and predicted values was larger for it than for the black line.
 
 Thus a fancy or complex method doesnt always assure an accurate model. The accuracy in making the presictions is what matters.
 ---
