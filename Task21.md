@@ -13,7 +13,7 @@ The video uses the question "Will you love StatQuest?" tree to shown how choices
 The data we that we give intially which builds is known as **training data**.
 To test our model we provide it with some other data the model has'nt seen. This data is known as **testing data**.
 
-[sqiuiggle]()
+[sqiuiggle](https://github.com/jessia-john/Marvel/blob/d7ae5796efb308713bd4bb4d1c19000c1493e0a2/IMG_0115.jpeg)
 
 
 In the video, We see the green squiggle which performed well with the training data but when we intoduced the testing data set we see how the sum of distance between real and predicted values was larger for it than for the black line.
