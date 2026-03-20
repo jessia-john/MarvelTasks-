@@ -12,8 +12,16 @@ One of the biggest advantages of VR is that it allows people to experience situa
 - Apple vision pro - 
 ---
 ## Technology 
-- **HEADSET**: The VR headset is the gateway between the physical and the virtual worlds. It uses twin high-definition screens and tracking sensors to simulate immersive VR environments. Though the current generation of VR gear is still dominated by the Oculus Rift and HTC Vive, new and advanced options are emerging each year.
+- **HEADSET**: The VR headset is the gateway between the physical and the virtual worlds. It uses twin high-definition screens and tracking sensors to simulate immersive VR environments.
+The head set contains: 
+  - Inertial Measurement Unit (IMU): A sensor chip containing a gyroscope (rotation), accelerometer (linear movement), and magnetometer (direction) to track head orientation.
+  - IPD Adjustment: A physical or software mechanism to adjust the Interpupillary Distance (the space between the lenses) to match the user's eyes.
+  - Facial Interface: The padding that rests against the face providing comfort and also blocks out external light.
+  - Though the current generation of VR gear is still dominated by the Oculus Rift and HTC Vive, new and advanced options are emerging each year.
+  - 
 - **COMPUTER**: Immersive and interactive VR environments require significant graphical and computational horsepower. VR tricks the mind into accepting the virtual world as real, but insufficient power can cause stuttering and create a disconnect between the real and the virtual.
+
+- 
 - **SOFTWARE**: Once the headset is up and running, software programs are added to support the intended service offerings. VR’s software market is dominated by video games, but educational programs are creating a niche. Health sciences VR programs fall into two broad categories: anatomical education using generic models and clinical case preparation using patient-specific renderings.
 
 ---
@@ -48,9 +56,9 @@ AR literally augments reality. It overlays what the participant sees in the real
 |Future|The market worth of augmented reality is increasing day by day and is estimated to reach $340 billion by 2028 and is said to surpass VR in the coming 3-5 years|The global VR market is expected to grow at a CAGR of 18% and reach $69.60 billion by 2028.|
 |Applications| VR is widely used in the gaming industry | AR is used in Retail (e.g., virtual furniture placement), Healthcare, Education, Tourism and manufacturing
 
-
-I was also able to experience VR through the headset in our lab, which was a truly fascinating and immersive experience. 
+![img](https://github.com/jessia-john/Marvel/blob/3d2e09d6241c95874ff67b63c22a57a62ec8fe66/virtual-vs-augmented-reality-copy-min-768x512.jpg)
+I was also able to experience VR through the headset in our lab, which was a truly fascinating and immersive experience. The shift was huge from normal screens to this 3d world which made me feel like I was physically present in the game. Every movement 
 
 ---
 ## Conclusion
-In conclusion, virtual reality offers complete safety and an experience comparable to the real world. If you’re training on dangerous machines, you won’t get hurt if you’re wearing only VR goggles on your head
+In conclusion, virtual reality offers complete safety and an experience comparable to the real world. Through this task I learned about the massive potential of VR and made me realize that VR isn’t just for entertainment or games it can be a space to learn, explore, and practice things that might be too difficult or dangerous in reality.
