@@ -48,7 +48,7 @@ Thus quality of the tarining data is extremely important for a reliable, fair an
 - This provide “correct answers” so the model can learn (manual labeling or use existing labels).
 
 5. Data reduction & cleansing
-     - Earlier it was mentioned more the data the better but sometimes their will be irrelevant, redundant features that need not be present and it is best to remove such data.
+     - Earlier it was mentioned more the data the better but sometimes their will be irrelevant, redundant features that need not be present and it is best to remove such data. The technical term for this is Feature Scaling.
      - Cleaning: Cleaning means refining our data and filling missing values with known/constant or blank values.
 
 6. Data wrangling & normalization
