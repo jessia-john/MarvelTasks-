@@ -1,7 +1,7 @@
 # AI hallucinations
 Imagine asking a world-class librarian for a fact, and they tell you a lie with a straight, confident face. It sounds like science fiction, but it happens every day in the world of Atcal Inteigence. While AI can solve complex equations and write poetry, it also has a habit of "hallucinating." But how, and why?
 
-**AI hallucination is a phenomenon where, a **large language model (LLM)** often a generative AI, chatbot or computer vision tool, perceives patterns or objects that are nonexistent or imperceptible to human observers, creating outputs that are nonsensical or altogether inaccurate.
+**AI hallucination** is a phenomenon where, a **large language model (LLM)** often a generative AI, chatbot or computer vision tool, perceives patterns or objects that are nonexistent or imperceptible to human observers, creating outputs that are nonsensical or altogether inaccurate.
 Above is the actual definition; in simple terms it is when AI gives the wrong answer confidently.
 
 These hallucinations can occur when GenAI attempts to answer a question it can't. Instead of simply saying it doesn't know, these models generate the most likely answer. 
@@ -54,13 +54,13 @@ Traditional LLMs generate answers  **only from their training data**. If they do
     
 
 ## Conclusion
-Thus, AI hallucinations show that even the machines we trust so much can sometimes be **extremely confident while giving incorrect answers**. 
+> Thus, AI hallucinations show that even the machines we trust so much can sometimes be **extremely confident while giving incorrect answers**. 
 
-In the fields I’d AI, researchers are constantly developing methods to reduce these errors and make AI systems more reliable. Until these solutions are fully matured, it remains our responsibility as users and developers to verify information and take steps to minimize AI hallucinations as much as possible. 
+In the fields of AI, researchers are constantly developing methods to reduce these errors and make AI systems more reliable. Until these solutions are fully matured, it remains our responsibility as users and developers to verify information and take steps to minimize AI hallucinations as much as possible. 
 
 ## References 
 - https://cloud.google.com/use-cases/retrieval-augmented-generation
-- 
+  
 - https://www.computer.org/publications/tech-news/trends/hallucinations-in-ai-models
 
 - https://www.ibm.com/think/topics/ai-hallucinations
